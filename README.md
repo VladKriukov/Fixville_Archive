@@ -3,6 +3,8 @@ You are little green men who save the world by fixing stuff. The aim of the game
 
 This game was published around 05/05/2017.
 
+Source code instructions: just add playmaker
+
 Gameplay trailer: https://youtu.be/CUEaFmHeZtI
 
 ![image](https://user-images.githubusercontent.com/23738870/109398020-07bbb580-7932-11eb-8f71-191adbb9fac5.png)
